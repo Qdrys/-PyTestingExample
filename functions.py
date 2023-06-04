@@ -7,7 +7,7 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    return a * b
+    return a * c
 
 
 def convert_fahrenheit_to_celsius(fahrenheit):
